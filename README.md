@@ -15,7 +15,7 @@ I am passionate about creating efficient and reliable hardware solutions and hav
 - **Embedded Controller PCB Design** – Created detailed PCB layouts for embedded controller boards using Altium Designer.
 
 ## Contact  
-- Email: rzakmoradi@gmail.com @example.com  
+- Email: rzakmoradi@gmail.com
 - LinkedIn: [www.linkedin.com/in/alireza-khodamoradi-606a40200](#)  
 
 
