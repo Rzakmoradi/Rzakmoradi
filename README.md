@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Reza Khodamoradi 👋
 
-<!--
-**Rzakmoradi/Rzakmoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+I specialize in FPGA design and development, with hands-on experience in programming using VHDL and Verilog. I am also skilled in PCB design using Altium Designer.  
+I am passionate about creating efficient and reliable hardware solutions and have a strong background in embedded systems.
 
-Here are some ideas to get you started:
+## Skills  
+- FPGA development with VHDL and Verilog  
+- PCB design and layout using Altium Designer  
+- Hardware simulation and testing  
+- Version control with Git  
+- Familiarity with Embedded Systems and FreeRTOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects  
+- **FPGA-Based Signal Processing System** – Designed and implemented a real-time signal processing application on FPGA.  
+- **Embedded Controller PCB Design** – Created detailed PCB layouts for embedded controller boards using Altium Designer.
+
+## Contact  
+- Email: rzakmoradi@gmail.com @example.com  
+- LinkedIn: [www.linkedin.com/in/alireza-khodamoradi-606a40200](#)  
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rzakmoradi&show_icons=true&theme=default)
