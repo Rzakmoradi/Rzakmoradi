@@ -8,7 +8,6 @@ I am passionate about creating efficient and reliable hardware solutions and hav
 - FPGA development with VHDL and Verilog  
 - PCB design and layout using Altium Designer  
 - Hardware simulation and testing  
-- Version control with Git  
 - Familiarity with Embedded Systems and FreeRTOS
 
 ## Key Projects  
