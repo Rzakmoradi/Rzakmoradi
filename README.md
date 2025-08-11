@@ -16,7 +16,7 @@ I am passionate about creating efficient and reliable hardware solutions and hav
 
 ## Contact  
 - Email: rzakmoradi@gmail.com
-- LinkedIn: www.linkedin.com/in/alireza-khodamoradi-606a40200(#)  
+- LinkedIn: https://www.linkedin.com/in/alireza-khodamoradi-606a40200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app(#)  
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rzakmoradi&show_icons=true&theme=default)
