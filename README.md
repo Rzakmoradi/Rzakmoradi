@@ -1,4 +1,4 @@
-# Hi, I'm Reza Khodamoradi 👋
+# Hi, I'm Alireza Khodamoradi 👋
 
 ## About Me  
 I specialize in FPGA design and development, with hands-on experience in programming using VHDL and Verilog. I am also skilled in PCB design using Altium Designer.  
